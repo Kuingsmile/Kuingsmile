@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+<!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+
 ![xxx's Github stats](https://github-readme-stats.vercel.app/api?username=Kuingsmile&show_icons=true)
 
 
