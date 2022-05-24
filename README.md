@@ -46,7 +46,17 @@
 
 
 <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```text
+Python     14 hrs 18 mins  █████████████████████▒░░░   85.06 %
+C++        46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Markdown   38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+JSON       26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Java       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+YAML       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+```
+
+<!--END_SECTION:waka-->
 
 ![xxx's Github stats](https://github-readme-stats.vercel.app/api?username=Kuingsmile&show_icons=true)
 
