@@ -1,4 +1,11 @@
 ### Hi there 👋
+![xxx's Github stats](https://github-readme-stats.vercel.app/api?username=Kuingsmile&show_icons=true)
+
+
+
+
+- 🔭 I’m currently working on Bioinformatics
+- 🌱 I’m currently learning **Machine Learning** and **Java**
 
 <!--
 **Kuingsmile/Kuingsmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
