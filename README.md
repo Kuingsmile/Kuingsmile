@@ -23,7 +23,15 @@
   ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle])
   ![Jenkins](https://img.shields.io/badge/Jenkins-gray?style=flat&logo=jenkins])
   ![XML](https://img.shields.io/badge/-XML-orange?style=flat&logo=xml])
+  
+  **Web**
+  ![Php](https://img.shields.io/badge/-php-lightgray?style=flat&logo=php)
+  ![Javascript](https://img.shields.io/badge/-Javascript-orange?style=flat&logo=javascript)
   ![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json])
+  
+  **Dart**
+  ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat&logo=Dart)
+  ![Flutter](https://img.shields.io/badge/-Flutter-orange?style=flat&logo=Flutter)
 
 **Software Development:**
 ![Docker](https://img.shields.io/badge/-2496ED?style=flat&logo=Docker&logoColor=white)
