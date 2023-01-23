@@ -68,7 +68,7 @@ Dart         24 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-![xxx's Github stats](https://github-readme-stats.vercel.app/api?username=Kuingsmile&show_icons=true)
+![xxx's Github stats](https://readmestats.999857.xyz/api?username=Kuingsmile&show_icons=true)
 
 
 
