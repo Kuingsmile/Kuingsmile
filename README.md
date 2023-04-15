@@ -28,8 +28,10 @@
   ![Php](https://img.shields.io/badge/-php-lightgray?style=flat&logo=php)
   ![Javascript](https://img.shields.io/badge/-Javascript-orange?style=flat&logo=javascript)
   ![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json])
+  ![Typescript](https://img.shields.io/badge/-Typescript-orange?style=flat&logo=typescript)
+  ![VUE.JS](https://img.shields.io/badge/-VUE.JS-orange?style=flat&logo=vue.js)
   
-  **Dart**
+  **Android**
   ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat&logo=Dart)
   ![Flutter](https://img.shields.io/badge/-Flutter-orange?style=flat&logo=Flutter)
 
