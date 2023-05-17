@@ -60,13 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 9 hrs 51 mins
+Total Time: 9 hrs 46 mins
 
-TypeScript   4 hrs           ██████████░░░░░░░░░░░░░░░   40.15 %
-Vue.js       2 hrs 23 mins   ██████░░░░░░░░░░░░░░░░░░░   23.97 %
-JSON         1 hr 13 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
-Markdown     41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
-JavaScript   40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+TypeScript   4 hrs 10 mins   ██████████▓░░░░░░░░░░░░░░   42.23 %
+Vue.js       2 hrs 44 mins   ███████░░░░░░░░░░░░░░░░░░   27.76 %
+JSON         1 hr 13 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
+JavaScript   40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+HTML         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
 ```
 
 <!--END_SECTION:waka-->
