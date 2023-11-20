@@ -60,13 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 23 hrs 9 mins
+Total Time: 29 hrs 20 mins
 
-Go                13 hrs 42 mins  ██████████████▓░░░░░░░░░░   59.13 %
-YAML              2 hrs 49 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
-TypeScript        2 hrs 48 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
-Markdown          1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-JSON              1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+Go                15 hrs 19 mins  █████████████░░░░░░░░░░░░   52.17 %
+TypeScript        5 hrs 57 mins   █████░░░░░░░░░░░░░░░░░░░░   20.31 %
+YAML              3 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
+JSON              1 hr 48 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Markdown          1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
 ```
 
 <!--END_SECTION:waka-->
