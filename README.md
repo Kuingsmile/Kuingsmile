@@ -30,6 +30,12 @@
   ![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json])
   ![Typescript](https://img.shields.io/badge/-Typescript-orange?style=flat&logo=typescript)
   ![VUE.JS](https://img.shields.io/badge/-VUE.JS-orange?style=flat&logo=vue.js)
+  ![REACT](https://img.shields.io/badge/React-20232A?style=flatlogo=react&logoColor=61DAFB)
+
+  **Backend**
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
   
   **Android**
   ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat&logo=Dart)
@@ -41,7 +47,6 @@
 ![Vim](https://img.shields.io/badge/-019733?style=flat&logo=Vim&logoColor=white])
 ![RStudio](https://img.shields.io/badge/-75AADB?style=flat&logo=RStudio&logoColor=white])
 ![LeetCode](https://img.shields.io/badge/-02569B?style=flat&logo=leetCode&logoColor=white])
-
 
 **Version Control:**
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Kuingsmile)
