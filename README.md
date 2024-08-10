@@ -65,13 +65,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 4 mins
+Total Time: 0 secs
 
-TypeScript    58 mins         █████████████████████▓░░░   86.06 %
-PowerShell    5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
-Other         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-Bash          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-AppleScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
