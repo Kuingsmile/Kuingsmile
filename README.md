@@ -65,13 +65,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 38 hrs 53 mins
+Total Time: 41 hrs 50 mins
 
-Dart              26 hrs 10 mins  ████████████████▓░░░░░░░░   66.71 %
-TypeScript        3 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
-YAML              3 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
-Groovy            1 hr 50 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-Markdown          1 hr 48 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Dart              32 hrs 7 mins   ███████████████████░░░░░░   75.46 %
+YAML              3 hrs 7 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+Groovy            1 hr 50 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Markdown          1 hr 38 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+TypeScript        1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
 <!--END_SECTION:waka-->
