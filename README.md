@@ -65,11 +65,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 31 hrs 33 mins
+Total Time: 26 hrs 32 mins
 
-Dart         31 hrs 20 mins  ████████████████████████▓   99.32 %
-TypeScript   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Dart       26 hrs 31 mins  █████████████████████████   99.96 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
