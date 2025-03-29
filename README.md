@@ -65,9 +65,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 hrs 16 mins
+Total Time: 3 hrs 16 mins
 
-Dart   12 hrs 16 mins  █████████████████████████   100.00 %
+Dart   3 hrs 16 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
