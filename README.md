@@ -65,9 +65,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 56 mins
+Total Time: 4 hrs 40 mins
 
-Dart   4 hrs 56 mins   █████████████████████████   100.00 %
+Dart         4 hrs 36 mins   ████████████████████████▓   98.59 %
+TypeScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
