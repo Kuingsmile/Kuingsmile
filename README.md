@@ -65,13 +65,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 58 mins
+Total Time: 8 hrs 6 mins
 
-Dart              8 hrs 53 mins   ██████████████████████▒░░   89.12 %
-Markdown          56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-YAML              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-JSON              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Dart              6 hrs 54 mins   █████████████████████░░░░   84.54 %
+Markdown          1 hr 2 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
+YAML              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Other             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+JSON              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
