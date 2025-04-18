@@ -65,13 +65,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 28 mins
+Total Time: 10 mins
 
-Vue.js            1 hr 5 mins     ███████████░░░░░░░░░░░░░░   43.95 %
-Dart              49 mins         ████████▒░░░░░░░░░░░░░░░░   33.37 %
-Markdown          13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
-Java Properties   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-JSON              8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+Vue.js   10 mins         ███████████████████████▓░   94.09 %
+JSON     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
 ```
 
 <!--END_SECTION:waka-->
