@@ -65,9 +65,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 1 hr 38 mins
 
-No activity tracked
+YAML         56 mins         ██████████████▒░░░░░░░░░░   57.26 %
+JavaScript   23 mins         ██████░░░░░░░░░░░░░░░░░░░   23.55 %
+TypeScript   13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
+JSON         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+Vue.js       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
