@@ -65,9 +65,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 12 mins
 
-No activity tracked
+Vue.js       7 mins          ███████████████▒░░░░░░░░░   60.87 %
+JSON         3 mins          ███████░░░░░░░░░░░░░░░░░░   28.18 %
+TypeScript   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+TSConfig     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
