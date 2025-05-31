@@ -65,13 +65,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 27 mins
+Total Time: 4 mins
 
-Markdown     12 mins         ███████████░░░░░░░░░░░░░░   44.52 %
-JSON         9 mins          ████████▓░░░░░░░░░░░░░░░░   34.69 %
-TOML         4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
-TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+TOML   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
