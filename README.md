@@ -65,9 +65,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 mins
+Total Time: 2 mins
 
-TOML   4 mins          █████████████████████████   100.00 %
+TOML   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
