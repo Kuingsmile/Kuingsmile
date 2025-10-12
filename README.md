@@ -65,13 +65,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11 mins
+Total Time: 0 secs
 
-JavaScript   6 mins          █████████████▓░░░░░░░░░░░   55.21 %
-TypeScript   1 min           ████░░░░░░░░░░░░░░░░░░░░░   15.97 %
-JSON         1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 %
-Markdown     1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
-TSConfig     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
