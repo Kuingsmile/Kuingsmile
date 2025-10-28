@@ -65,9 +65,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 20 mins
 
-Vue.js   0 secs          █████████████████████████   100.00 %
+JSON     16 mins         ████████████████████▓░░░░   83.30 %
+Vue.js   3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.70 %
 ```
 
 <!--END_SECTION:waka-->
