@@ -65,9 +65,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 14 mins
 
-No activity tracked
+Other         33 mins         █████████████████▒░░░░░░░   69.92 %
+JSON          9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.32 %
+Bash          4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+YAML          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+AppleScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
