@@ -65,13 +65,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13 mins
+Total Time: 0 secs
 
-JSON         10 mins               ███████████████████▒░░░░░   77.61 %
-Markdown     1 min                 ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
-Rust         1 min                 ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
-YAML         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
