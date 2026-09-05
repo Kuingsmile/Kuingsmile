@@ -65,13 +65,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 47 mins
+Total Time: 58 mins
 
-Python        59 mins               ██████████████░░░░░░░░░░░   55.68 %
-PowerShell    16 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
-Checksums     11 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
-Markdown      9 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
-JSON          6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+PowerShell    17 mins               ███████▒░░░░░░░░░░░░░░░░░   29.62 %
+TOML          13 mins               █████▓░░░░░░░░░░░░░░░░░░░   23.21 %
+Markdown      8 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
+Python        7 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
+Checksums     5 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
 ```
 
 <!--END_SECTION:waka-->
