@@ -65,13 +65,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 15 hrs 56 mins
+Total Time: 13 hrs 50 mins
 
-Other         6 hrs 8 mins          ███████░░░░░░░░░░░░░░░░░░   27.83 %
-Markdown      3 hrs 14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
-PowerShell    1 hr 49 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-C++           1 hr 35 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-Python        1 hr 22 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+Other         6 hrs 48 mins         ████████▒░░░░░░░░░░░░░░░░   32.94 %
+Markdown      3 hrs 23 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
+PowerShell    1 hr 49 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+C++           1 hr 35 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+Git Config    1 hr 32 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
 ```
 
 <!--END_SECTION:waka-->
