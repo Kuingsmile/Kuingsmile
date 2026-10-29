@@ -65,13 +65,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13 hrs 50 mins
+Total Time: 19 hrs 3 mins
 
-Other         6 hrs 48 mins         ████████▒░░░░░░░░░░░░░░░░   32.94 %
-Markdown      3 hrs 23 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
-PowerShell    1 hr 49 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
-C++           1 hr 35 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-Git Config    1 hr 32 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+Other         6 hrs 30 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.45 %
+Markdown      5 hrs 58 mins         ██████░░░░░░░░░░░░░░░░░░░   23.39 %
+TypeScript    3 hrs 7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
+PowerShell    1 hr 49 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+C++           1 hr 35 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
 ```
 
 <!--END_SECTION:waka-->
